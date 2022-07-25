@@ -100,3 +100,7 @@ while True:
     drawPoints(img, points)
     cv2.imshow("Output", img)
     cv2.waitKey(1)
+
+
+    #text
+    
